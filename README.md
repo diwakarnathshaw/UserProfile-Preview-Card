@@ -9,7 +9,7 @@ This is a simple project that shows a UserProfile-Preivew-Card which is created 
 > Simple and easy-to-read code.
 
 # How to use
-To use this project, simply download or clone the repository and open the index.html file in your web browser. You can also customize the colors and fonts by editing the style.css file.
+To use this project, simply download or clone the repository and open the `index.html` file in your web browser. You can also customize the colors and fonts by editing the `stylesheet.css` file.
 
 # Screenshot
 Desktop view
