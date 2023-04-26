@@ -4,6 +4,21 @@
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+a {
+  text-decoration: none;
+  color: #46484d;
+}
+
+a:hover {
+  color: #F5F5F5;
+}
+
+h2 {
+  margin: 0.2em 0;
+  letter-spacing: 2px;
+  color: #282727;
+}
+
 .main-container {
   background: linear-gradient(to right, #403a3e, #be5869);
   display: flex;
@@ -41,12 +56,8 @@
   background: #00000038;
   padding: 1px 5px;
   border-radius: 5px;
-}
-
-h2 {
-  margin: 0.2em 0;
-  letter-spacing: 2px;
-  color: #282727;
+  margin: 3px 0;
+  color: #000;
 }
 
 .portfolio ul {
@@ -57,11 +68,6 @@ h2 {
   margin: 8px auto;
 }
 
-a {
-  text-decoration: none;
-  color: #46484d;
-}
-
 .hashtag {
   display: flex;
   flex-wrap: wrap;
@@ -69,8 +75,4 @@ a {
   width: 15rem;
   justify-content: space-between;
   margin-top: 10px;
-}
-
-.hashtag span {
-  margin: 3px 0;
 }
