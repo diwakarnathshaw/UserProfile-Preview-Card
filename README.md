@@ -13,7 +13,8 @@ To use this project, simply download or clone the repository and open the `index
 
 # Screenshot
 Desktop view
-![UserProfile-Preview-Card](https://user-images.githubusercontent.com/42217482/234345904-705c1e0e-a880-41a1-9705-1859b4c672aa.png)
+![Screenshot 2023-04-26 at 22-47-40 Robin Edward Details](https://user-images.githubusercontent.com/42217482/234653572-b4750e5e-6d26-4d36-8043-63c0a3389f91.png)
+
 
 
 # Credits
