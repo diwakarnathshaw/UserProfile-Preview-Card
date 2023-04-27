@@ -4,6 +4,8 @@ This is a simple project that shows a UserProfile-Preivew-Card which is created 
 # Features
 > Responsive design that works on all screen sizes.
 
+> Added CSS Animation
+
 > Customizable colors and fonts.
 
 > Simple and easy-to-read code.
