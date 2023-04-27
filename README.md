@@ -1,10 +1,12 @@
 # UserProfile-Preview-Card
-This is a simple project that shows a UserProfile-Preivew-Card which is created using only `HTML` and `CSS`. The user-profile-card is a common feature on many websites.
+This is a simple project that shows a User Profile in a Preivew Card which is created using only `HTML` and `CSS`. I always like short, to-the-point information, therefore I created this user preview card so that both work and information could be concise and direct.
+
+
 
 # Features
 > Responsive design that works on all screen sizes.
 
-> Added CSS Animation
+> With CSS Animation.
 
 > Customizable colors and fonts.
 
