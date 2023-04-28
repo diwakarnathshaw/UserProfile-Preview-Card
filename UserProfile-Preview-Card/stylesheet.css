@@ -28,7 +28,7 @@ h2 {
 }
 
 .child-container {
-  background: linear-gradient(130deg, #5fc974, #d4fbd7, #5fc974);
+  background: linear-gradient(130deg, #5fc974, #837f86, #5fc974);
   background-size: 200% 200%;
   animation: Background-Animation 7s ease infinite;
   width: auto;
